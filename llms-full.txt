@@ -1,0 +1,62 @@
+# Cadiz
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amplificacion Sismica](https://cadiz.mecanicadesuelos.vip/amplificacion-sismica/)
+- [Asentamiento Diferencial](https://cadiz.mecanicadesuelos.vip/asentamiento-diferencial/)
+- [Asentamientos](https://cadiz.mecanicadesuelos.vip/asentamientos/)
+- [Capacidad De Carga](https://cadiz.mecanicadesuelos.vip/capacidad-de-carga/)
+- [Cbr Vial](https://cadiz.mecanicadesuelos.vip/cbr-vial/)
+- [Cimentaciones](https://cadiz.mecanicadesuelos.vip/cimentaciones/)
+- [Cimentaciones Rellenos](https://cadiz.mecanicadesuelos.vip/cimentaciones-rellenos/)
+- [Cimentaciones Sismicas](https://cadiz.mecanicadesuelos.vip/cimentaciones-sismicas/)
+- [Clasificacion Suelos](https://cadiz.mecanicadesuelos.vip/clasificacion-suelos/)
+- [Columnas Grava](https://cadiz.mecanicadesuelos.vip/columnas-grava/)
+- [Compresion Simple](https://cadiz.mecanicadesuelos.vip/compresion-simple/)
+- [Corte Directo](https://cadiz.mecanicadesuelos.vip/corte-directo/)
+- [Deslizamientos](https://cadiz.mecanicadesuelos.vip/deslizamientos/)
+- [Dilatometro](https://cadiz.mecanicadesuelos.vip/dilatometro/)
+- [Drenaje Vial](https://cadiz.mecanicadesuelos.vip/drenaje-vial/)
+- [Ensayo Cbr](https://cadiz.mecanicadesuelos.vip/ensayo-cbr/)
+- [Ensayo Cpt](https://cadiz.mecanicadesuelos.vip/ensayo-cpt/)
+- [Ensayo Spt](https://cadiz.mecanicadesuelos.vip/ensayo-spt/)
+- [Ensayo Triaxial](https://cadiz.mecanicadesuelos.vip/ensayo-triaxial/)
+- [Ensayos In Situ](https://cadiz.mecanicadesuelos.vip/ensayos-in-situ/)
+- [Erosion Suelos](https://cadiz.mecanicadesuelos.vip/erosion-suelos/)
+- [Estabilidad Taludes](https://cadiz.mecanicadesuelos.vip/estabilidad-taludes/)
+- [Estabilizacion Taludes](https://cadiz.mecanicadesuelos.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://cadiz.mecanicadesuelos.vip/estudio-mecanica-suelos/)
+- [Excavaciones Subterraneas](https://cadiz.mecanicadesuelos.vip/excavaciones-subterraneas/)
+- [Exploracion](https://cadiz.mecanicadesuelos.vip/exploracion/)
+- [Falla Taludes](https://cadiz.mecanicadesuelos.vip/falla-taludes/)
+- [Geofisica](https://cadiz.mecanicadesuelos.vip/geofisica/)
+- [Geomallas](https://cadiz.mecanicadesuelos.vip/geomallas/)
+- [Georradar Gpr](https://cadiz.mecanicadesuelos.vip/georradar-gpr/)
+- [Geotecnia Vial](https://cadiz.mecanicadesuelos.vip/geotecnia-vial/)
+- [Granulometria](https://cadiz.mecanicadesuelos.vip/granulometria/)
+- [Infiltracion](https://cadiz.mecanicadesuelos.vip/infiltracion/)
+- [Jet Grouting](https://cadiz.mecanicadesuelos.vip/jet-grouting/)
+- [Laboratorio](https://cadiz.mecanicadesuelos.vip/laboratorio/)
+- [Limites Atterberg](https://cadiz.mecanicadesuelos.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://cadiz.mecanicadesuelos.vip/losa-de-cimentacion/)
+- [Mejoramiento](https://cadiz.mecanicadesuelos.vip/mejoramiento/)
+- [Micropilotes](https://cadiz.mecanicadesuelos.vip/micropilotes/)
+- [Microtremores Hvsr](https://cadiz.mecanicadesuelos.vip/microtremores-hvsr/)
+- [Monitoreo Excavaciones](https://cadiz.mecanicadesuelos.vip/monitoreo-excavaciones/)
+- [Monitoreo Taludes](https://cadiz.mecanicadesuelos.vip/monitoreo-taludes/)
+- [Muestreo Inalterado](https://cadiz.mecanicadesuelos.vip/muestreo-inalterado/)
+- [Muros Contencion](https://cadiz.mecanicadesuelos.vip/muros-contencion/)
+- [Muros Mse](https://cadiz.mecanicadesuelos.vip/muros-mse/)
+- [Pavimento Flexible](https://cadiz.mecanicadesuelos.vip/pavimento-flexible/)
+- [Permeabilidad Laboratorio](https://cadiz.mecanicadesuelos.vip/permeabilidad-laboratorio/)
+- [Pilotes Friccion Punta](https://cadiz.mecanicadesuelos.vip/pilotes-friccion-punta/)
+- [Pilotes Hincados](https://cadiz.mecanicadesuelos.vip/pilotes-hincados/)
+- [Precarga](https://cadiz.mecanicadesuelos.vip/precarga/)
+
+## Contact
+- Website: https://cadiz.mecanicadesuelos.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
